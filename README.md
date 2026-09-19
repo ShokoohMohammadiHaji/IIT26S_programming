@@ -10,5 +10,5 @@
 - [A1_T7.py](./Week1/A1_T7.py)
 
 ## Additional Exercises Week 1
-- [W1_5.py](./W1_5.py)
-- [W1_6.py](./W1_6.py)
+- [W1_5](./W1_5/main.py)
+- [W1_6](./W1_6/main.py)
