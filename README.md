@@ -9,3 +9,6 @@
 [W2_5](https://github.com/ShokoohMohammadiHaji/Python_programming_W2_5)
 
 [W2_6](https://github.com/ShokoohMohammadiHaji/Python_programming_W2_6)
+
+## Week 3 (Additional links)
+[W3_6](https://github.com/ShokoohMohammadiHaji/Python_programming_W3_6)
