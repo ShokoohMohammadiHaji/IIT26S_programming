@@ -3,6 +3,6 @@ value1 = int(input("Insert starting value: "))
 value2 = int(input("Insert stopping value: "))
 print("\nstarting for-loop:")
 for i in range(value1, value2 + 1):
-    print(i, sep=" ")
+    print(i, end=" ")
 print()
 print("\nProgram ending.")
