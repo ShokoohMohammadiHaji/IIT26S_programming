@@ -1,6 +1,5 @@
-
-print("Program starting.\n")
-print("Check multiplicative persistence.")
+print("Program starting.")
+print("\nCheck multiplicative persistence.")
 
 Num = int(input("Insert an integer: "))
 counter = 0
@@ -14,12 +13,11 @@ while Num >= 10:
         product *= digit
 
         if i < digit_counter - 1:
-            print(digit, sep=" * ")
+            print(digit, end=" * ")
         else:
-            print(digit, sep="")
+            print(digit, end="")
 
-    print(" = ", product)
-
+    print(" =", product)
     Num = product
     counter += 1
 

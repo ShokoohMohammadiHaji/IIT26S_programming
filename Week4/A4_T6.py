@@ -1,14 +1,13 @@
-
 print("Program starting.")
 Num = int(input("Insert a positive integer: "))
 loop_counter = -1
 while True:
-    print(Num, sep="")
+    print(Num, end="")
     loop_counter += 1
     if Num == 1:
         break
 
-    print(" -> ", sep="")
+    print(" -> ", end="")
 
     if Num % 2 == 0:
         Num = Num // 2
