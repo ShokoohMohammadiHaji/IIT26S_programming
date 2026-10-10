@@ -14,3 +14,8 @@
 [W3_5](https://github.com/ShokoohMohammadiHaji/Python_programming_W3_5)
 
 [W3_6](https://github.com/ShokoohMohammadiHaji/Python_programming_W3_6)
+
+## Week 4 (selected Assignments)
+[W4_6](https://github.com/ShokoohMohammadiHaji/Python_programming_W4_6)
+
+[W4_7](https://github.com/ShokoohMohammadiHaji/Python_programming_W4_7)
