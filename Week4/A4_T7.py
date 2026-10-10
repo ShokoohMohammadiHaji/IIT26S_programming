@@ -14,9 +14,9 @@ while Num >= 10:
         product *= digit
 
         if i < digit_counter - 1:
-            print(digit, end=" * ")
+            print(digit, sep=" * ")
         else:
-            print(digit, end="")
+            print(digit, sep="")
 
     print(" = ", product)
 

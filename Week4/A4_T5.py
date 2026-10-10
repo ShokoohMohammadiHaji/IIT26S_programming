@@ -15,13 +15,13 @@ else:
     for i in range(start, stop + 1):
         if i == inspect:
             break
-        print(i, end=" ")
+        print(i, sep=" ")
    # print()
     print("\nSecond loop - inspection with continue:")
     for i in range(start, stop ):
         if i == inspect:
             continue
-        print(i, end=" ")
+        print(i, sep=" ")
 
 print()
 print("\nProgram ending.")

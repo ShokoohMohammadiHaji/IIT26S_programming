@@ -3,7 +3,7 @@ value1 = int(input("Insert starting value: "))
 value2 = int(input("Insert stopping value: "))
 print("\nStarting while-loop:")
 while value1 <= value2:
-    print(value1, end=" ")
+    print(value1, sep=" ")
     value1 += 1
 print()
 print("\nProgram ending.")
