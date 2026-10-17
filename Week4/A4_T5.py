@@ -13,7 +13,6 @@ if inspect < start or inspect > stop:
 
 else:
     print("First loop - inspection with break:")
-
     for i in range(start, stop + 1):
         if i == inspect: 
             break
@@ -21,7 +20,6 @@ else:
     print(text[:-1])
     text = ""
     print("\nSecond loop - inspection with continue:")
-    
     for i in range(start, stop ):
         text= text + str(i)+ " "
         if i == inspect:
