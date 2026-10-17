@@ -1,9 +1,11 @@
 DELIMITER = ","
+
 def main():
     print("Program starting.")
     words = collectWords()
     analyseWords(words)
     print("Program ending.")
+
 def collectWords():
     words = ""
     while True:
@@ -16,6 +18,7 @@ def collectWords():
             else:
                 words += DELIMITER + word
     return words
+
 def analyseWords(Pwords):
     wordList = Pwords.split(DELIMITER)
     wordCounter = 0
