@@ -26,7 +26,7 @@
 
 
 ## Week 4 
-[W6_6](https://github.com/ShokoohMohammadiHaji/Python_programming_W6_6)
+[W6_5](https://github.com/ShokoohMohammadiHaji/Python_programming_W6_5)
 
-[W6_7](https://github.com/ShokoohMohammadiHaji/Python_programming_W6_7)
+[W6_6](https://github.com/ShokoohMohammadiHaji/Python_programming_W6_6)
 
