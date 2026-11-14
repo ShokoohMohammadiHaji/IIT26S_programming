@@ -18,3 +18,15 @@
 [W4_6](https://github.com/ShokoohMohammadiHaji/Python_programming_W4_6)
 
 [W4_7](https://github.com/ShokoohMohammadiHaji/Python_programming_W4_7)
+
+## Week 5 
+[W5_6](https://github.com/ShokoohMohammadiHaji/Python_programming_W5_6)
+
+[W5_7](https://github.com/ShokoohMohammadiHaji/Python_programming_W5_7)
+
+
+## Week 4 
+[W6_6](https://github.com/ShokoohMohammadiHaji/Python_programming_W6_6)
+
+[W6_7](https://github.com/ShokoohMohammadiHaji/Python_programming_W6_7)
+
