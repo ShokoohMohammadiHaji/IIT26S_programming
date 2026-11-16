@@ -32,5 +32,5 @@ def runProgram ():
         elif choice ==0 :
             print("Exiting program.\n")
           break
-if __name__=="__mani__":
-    main()
+
+main()
