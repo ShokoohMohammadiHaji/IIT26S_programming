@@ -31,5 +31,6 @@ def runProgram ():
             print("Cleared count!\n")
         elif choice ==0 :
             print("Exiting program.\n")
-            break
-main()
+          break
+if __name__=="__mani__":
+    main()
