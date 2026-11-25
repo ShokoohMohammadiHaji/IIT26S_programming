@@ -36,3 +36,9 @@
 
 [W7_5](https://github.com/ShokoohMohammadiHaji/Python_programming_W7_5)
 
+
+## Week 8 
+[W8_5](https://github.com/ShokoohMohammadiHaji/Python_programming_W8_5)
+
+[W8_6](https://github.com/ShokoohMohammadiHaji/Python_programming_W8_6)
+
